@@ -1,3 +1,17 @@
+body{
+    font-family: 'Trebuchet MS'!important;
+}
 .carousel-caption {
     bottom: 17.25rem !important;
+}
+.bg-navbar{
+    background-color:  rgb(252 238 235) !important;
+}
+.w-15{
+    width:10%;
+}
+.nav-link {
+    font-size: 18px;
+    font-weight: 700;
+    color: rgb(100 115 244);
 }
